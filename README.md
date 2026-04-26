@@ -5,7 +5,7 @@
 
   **AI Enthusiast • App Developer • Student Innovator**
 
-  📍 Baner, Pune, Maharashtra, India &nbsp;|&nbsp; 📧 [Your Email Address] &nbsp;|&nbsp; 📞 [Your Contact Number]
+  📍 Baner, Pune, Maharashtra, India &nbsp;|&nbsp; 📧 [aaralmenghani@gmail.com] &nbsp;|&nbsp; 📞 [Your Contact Number]
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/[your-linkedin])
   [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/aaralmenghani)
