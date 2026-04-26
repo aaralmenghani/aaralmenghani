@@ -1,7 +1,7 @@
 <div align="center">
   <img src="aaralmenghani.jpeg" alt="Aaral Pravinkumar Menghani" width="180" style="border-radius: 50%;" />
   
-  # 👋 Hi, I'm Aaral Pravinkumar Menghani
+  # Hi, I'm Aaral Pravinkumar Menghani
 
   **AI Enthusiast • App Developer • Student Innovator**
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 A disciplined, hardworking, and self-motivated student currently studying in **Class X at The Orchid School, Pune**, with strong interests in **technology, artificial intelligence, programming, and innovation**. Passionate about building real-world applications and continuously learning emerging technologies to create meaningful solutions.
 
 ---
 
-## 🎓 Education
+## Education
 
 | School | Class | Location | Expected Graduation |
 |--------|-------|----------|-------------------|
@@ -28,16 +28,16 @@ A disciplined, hardworking, and self-motivated student currently studying in **C
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-### 🐍 Programming
+### Programming
 - Python Programming
 
-### 📱 App Development
+### App Development
 - Android App Development
 - App Development Concepts
 
-### 🤖 AI / ML
+### AI / ML
 - Artificial Intelligence Fundamentals
 - Generative AI Basics
 - Transformer Architecture
@@ -46,9 +46,9 @@ A disciplined, hardworking, and self-motivated student currently studying in **C
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🎨 Doodle App *(Published on Android)*
+### Doodle App *(Published on Android)*
 - Built and successfully **published a Doodle application** on the Android platform using Python
 - Demonstrated practical skills in end-to-end application development
 - Transformed an idea into a **functional product available for real users**
@@ -56,9 +56,9 @@ A disciplined, hardworking, and self-motivated student currently studying in **C
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 **Top ranks** in multiple **Olympiad competitions**:
+-  **Top ranks** in multiple **Olympiad competitions**:
   - Mathematics Olympiad
   - Science Olympiad
   - English Olympiad
@@ -66,48 +66,47 @@ A disciplined, hardworking, and self-motivated student currently studying in **C
 
 ---
 
-## 💡 Core Strengths
+##  Core Strengths
 
-- 🎯 Disciplined and focused learner
-- 💪 Hardworking and goal-oriented
-- 🔥 Self-motivated individual
-- 🧠 Strong analytical thinking
-- 🔍 Problem-solving mindset
-- ⚡ Quick learner
-- 🚀 Passion for technology and innovation
-
----
-
-## 🌟 Areas of Interest
-
-- 🤖 Artificial Intelligence
-- ✨ Generative AI
-- 📱 Mobile App Development
-- 🤖 Robotics
-- 💻 Programming
-- 🔭 Emerging Technologies
+-  Disciplined and focused learner
+-  Hardworking and goal-oriented
+-  Self-motivated individual
+-  Strong analytical thinking
+-  Problem-solving mindset
+-  Quick learner
+-  Passion for technology and innovation
 
 ---
 
-## 🌐 Languages
+##  Areas of Interest
 
-- 🇬🇧 English
-- 🇮🇳 Hindi
+-  Artificial Intelligence
+-  Generative AI
+-  Mobile App Development
+-  Programming
+-  Emerging Technologies
+-  Medical domain
+
+---
+
+##  Languages
+
+-  English
+-  Hindi
 - Sindhi
 
 ---
 
-## 🤝 Extracurricular Activities
+##  Extracurricular Activities
 
-- 💻 Coding competitions
-- 🔬 Science exhibitions
-- 🏫 School clubs
-- 🎤 Debate / Public speaking
-- *(Add sports, music, art, or other activities if applicable)*
+-  Coding competitions
+-  Science exhibitions
+-  School clubs
+-  Debate / Public speaking
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - **Email:** aaralmenghani@gmail.com
 - **GitHub:** [https://github.com/aaralmenghani](https://github.com/aaralmenghani)
