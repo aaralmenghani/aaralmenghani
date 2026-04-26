@@ -24,7 +24,7 @@ A disciplined, hardworking, and self-motivated student currently studying in **C
 
 | School | Class | Location | Expected Graduation |
 |--------|-------|----------|-------------------|
-| The Orchid School | X – Blush | Baner, Pune | [Add Year] |
+| The Orchid School | X – Blush | Baner, Pune | [2027] |
 
 ---
 
@@ -109,10 +109,8 @@ A disciplined, hardworking, and self-motivated student currently studying in **C
 
 ## 📫 Connect With Me
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** aaralmenghani@gmail.com
 - **GitHub:** [https://github.com/aaralmenghani](https://github.com/aaralmenghani)
-- **Google Play:** [Your App Link]
 
 ---
 
