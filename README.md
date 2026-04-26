@@ -16,7 +16,7 @@
 
 ## About Me
 
-A disciplined, hardworking, and self-motivated student currently studying in **Class X at The Orchid School, Pune**, with strong interests in **technology, artificial intelligence, programming, and innovation**. Passionate about building real-world applications and continuously learning emerging technologies to create meaningful solutions.
+A disciplined, hardworking, and self-motivated student currently studying in **Class X at The Orchid School, Pune**, with strong interests in **technology, artificial intelligence, programming, medical domin and innovation**. Passionate about building real-world applications and continuously learning emerging technologies to create meaningful solutions.
 
 ---
 
